@@ -1,0 +1,27 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+.item {
+  margin-right: 0.7rem;
+  padding-top: -5rem;
+
+}
+
+.contenedor {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 0.3rem;
+}
+
+.container-1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 0.3rem;
+  margin-right: 0.3rem;
+}

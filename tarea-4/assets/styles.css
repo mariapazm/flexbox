@@ -1,0 +1,62 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  flex-direction: column;
+}
+
+.item {
+  background-color: #FF5F9F;
+  color: white;
+  width: 9rem;
+  height: 2.5rem;
+  font-size: 1.3rem;
+  font-style: Roboto Mono;
+  font-family: monospace;
+  margin: 0.5rem;
+  text-align: center;
+
+}
+
+.item-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.item-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

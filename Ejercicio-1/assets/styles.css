@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  margin-left: 30rem;
+  margin-top: 5rem;
+
+}
+
+.item {
+  width: 15rem;
+  height: 4.8rem;
+  background-color: #51F9E2;
+  color: #FFFFFF;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing:0.1rem;
+  font-style: Roboto Mono;
+  font-family: monospace;
+  justify-content: center;
+}
